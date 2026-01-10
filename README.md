@@ -13,5 +13,5 @@ I implemented a **Random Forest Regressor** to predict house prices.
 - **Key Features:** The model found that `Overall Quality` and `GrLivArea` were the strongest predictors of price.
 
 ## 📂 Project Structure
-- `model.py`: The main Python script used for training and prediction.
+- `housing-prices-competition.ipynb`: The main Python script used for training and prediction.
 - `submission.csv`: My final predictions for the Kaggle leaderboard.

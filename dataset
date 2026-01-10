@@ -1,0 +1,24 @@
+# Dataset Information
+
+The dataset used in this project is from the **Housing Prices Competition for Kaggle Learn Users**. 
+
+## 🔗 Quick Links
+- **Competition Home:** [Kaggle Competition Page](https://www.kaggle.com/competitions/home-data-for-ml-course)
+- **Data Source:** [Download Dataset Here](https://www.kaggle.com/competitions/home-data-for-ml-course/data)
+
+## 📝 Description
+The data consists of 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. The goal is to predict the final price of each home. 
+
+### Key Features include:
+- **SalePrice:** The target variable (in dollars).
+- **OverallQual:** Rates the overall material and finish of the house.
+- **GrLivArea:** Above grade (ground) living area square feet.
+- **GarageCars:** Size of garage in car capacity.
+
+## ⚖️ License & Terms
+This dataset is provided by Kaggle for educational purposes. 
+- **Usage:** Academic and non-commercial use only.
+- **Privacy Note:** To comply with Kaggle's rules regarding data redistribution, the raw `train.csv` and `test.csv` files are not hosted in this repository. Please download them directly from the link above.
+
+## 🎓 Acknowledgments
+The Ames Housing dataset was compiled by **Dean De Cock** for use in data science education.

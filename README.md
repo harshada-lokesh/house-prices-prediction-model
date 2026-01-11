@@ -12,9 +12,9 @@ I implemented a **Random Forest Regressor** to predict house prices.
 
 ### Kaggle Leaderboard Scores
 * **Submission 1 (Baseline):** `29,371.88`
-    * *Approach:* Basic Random Forest with default parameters and simple imputation.
+    * *Approach:* Basic Random Forest with default parameters.
 * **Submission 2 (Optimized):** `16,644.83`
-    * *Approach:* Improved feature engineering, handled categorical variables, and tuned `n_estimators`.
+    * *Approach:* Improved using simple imputation and tuned `n_estimators`.
 
 ## 📂 Project Structure
 - `scripts`: The Python scripts used for training and prediction.

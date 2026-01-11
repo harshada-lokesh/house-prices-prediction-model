@@ -9,9 +9,13 @@ I implemented a **Random Forest Regressor** to predict house prices.
 - **Validation:** Used a train-test split to monitor Mean Absolute Error (MAE) and the Root-Mean-Squared-Error (RMSE).
 
 ## 📊 Results
-- **Kaggle Score:** 29371.88
-- **Key Features:** The model found that `Overall Quality` and `GrLivArea` were the strongest predictors of price.
+
+### Kaggle Leaderboard Scores
+* **Submission 1 (Baseline):** `29,371.88`
+    * *Approach:* Basic Random Forest with default parameters and simple imputation.
+* **Submission 2 (Optimized):** `16,644.83`
+    * *Approach:* Improved feature engineering, handled categorical variables, and tuned `n_estimators`.
 
 ## 📂 Project Structure
-- `housing-prices-competition.ipynb`: The main Python script used for training and prediction.
-- `submission.csv`: My final predictions for the Kaggle leaderboard.
+- `scripts`: The Python scripts used for training and prediction.
+- `submissions`: My different predictions for the Kaggle leaderboard.

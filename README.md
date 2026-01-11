@@ -15,6 +15,8 @@ I implemented a **Random Forest Regressor** to predict house prices.
     * *Approach:* Basic Random Forest with default parameters.
 * **Submission 2 (Optimized):** `16,644.83`
     * *Approach:* Improved using simple imputation and tuned `n_estimators`.
+* **Submission 3 (Optimized):** `16,421.55`
+    * *Approach:* Improved using pipeline for data preprocessing and modeling code organized.
 
 ## 📂 Project Structure
 - `scripts`: The Python scripts used for training and prediction.
